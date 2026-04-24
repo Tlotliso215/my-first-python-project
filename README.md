@@ -1,25 +1,53 @@
-# Temperature Tracker
+# 🌡️ Temperature Tracker
+
+A beginner-friendly Python project that records temperatures and calculates useful results.
+
+---
 
 ## 📌 Description
-This is a Python program that allows the user to enter temperatures and stores them in a list.  
-The program then calculates and displays the highest, lowest, and average temperature.
+
+This program allows a user to enter multiple temperature values.  
+When the user types `quit`, the program displays:
+
+- The list of temperatures entered
+- The highest temperature
+- The lowest temperature
+- The average temperature
+
+---
 
 ## ⚙️ Features
-- Accepts multiple temperature inputs  
-- Stores values in a list  
-- Calculates:
-  - Highest temperature  
-  - Lowest temperature  
-  - Average temperature  
-- Stops when the user types 'quit'  
+
+✅ Accepts many temperature inputs  
+✅ Stores temperatures in a list  
+✅ Uses a `while` loop  
+✅ Calculates highest, lowest, and average manually  
+✅ Beginner-friendly Python code  
+
+---
 
 ## ▶️ How to Run
-1. Open the file in Python  
-2. Run the program  
-3. Enter temperatures  
-4. Type 'quit' to stop and see results  
+
+1. Download or open the Python file:
+   `4636286_setebe_Ex1.py`
+
+2. Run it using Python.
+
+3. Enter temperatures one by one.
+
+4. Type `quit` to stop the program.
+
+---
 
 ## 🧠 What I Learned
-- Using lists in Python  
-- Using loops (while loop)  
-- Calculating average, min, and max manually  
+
+- How to use lists in Python
+- How to use a `while` loop
+- How to calculate totals and averages
+- How to find highest and lowest values manually
+
+---
+
+## 👨‍💻 Author
+
+Created by **Tlotliso Setebe**
